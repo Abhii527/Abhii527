@@ -83,11 +83,21 @@ A responsive web application designed to help users manage and track their daily
 - Git & GitHub
 
 ---
-
 ## 🤝 Connect With Me
 
-💼 LinkedIn: [Abhijeet Pawar](https://www.linkedin.com/in/abhi-pawar-265a9439b)
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhi-pawar-265a9439b">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhijeet%20Anil%20Pawar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
+  <a href="mailto:abhiapawar30@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-abhiapawar30%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Abhii527">
+    <img src="https://img.shields.io/badge/GitHub-Abhii527-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ### ⭐ Building, learning and improving one project at a time.
