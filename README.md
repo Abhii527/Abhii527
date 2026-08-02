@@ -38,21 +38,33 @@
 
 ---
 
+---
+
 ## 🚀 Featured Project
 
 ### 💰 Smart Expense Tracker
 
-A responsive web application designed to help users manage their daily finances efficiently.
+A responsive web application designed to help users manage and track their daily income and expenses efficiently.
 
-**Features:**
-- Add income and expense transactions
-- Track current balance
-- Monitor total income and expenses
-- Set monthly budget
-- Categorize transactions
-- Simple and responsive interface
+**✨ Key Features**
+- ➕ Add income and expense transactions
+- 💰 Track current balance
+- 📊 Monitor total income and expenses
+- 🏷️ Categorize transactions
+- 🎯 Set and track monthly budget
+- 📱 Responsive and clean user interface
 
-**Technologies:** HTML • CSS • JavaScript
+**🛠️ Built With**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🔗 Project Links
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-success?style=for-the-badge&logo=github)](https://abhii527.github.io/Expense-Tracker-Pro/)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Abhii527/Expense-Tracker-Pro)
 
 ---
 
