@@ -1,10 +1,11 @@
-# Hi, I'm Abhijeet Anil Pawar 👋
+<h1 align="center">Hi 👋, I'm Abhijeet Anil Pawar</h1>
 
-🎓 Computer Engineering Student  
-💻 Interested in Software Development, Data Science & AI/ML  
-🚀 Passionate about building practical and real-world projects
+<h3 align="center">Computer Engineering Student | Data Science & AI/ML Enthusiast</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Data+Science+%26+AI%2FML+Enthusiast;Web+Development+Enthusiast;Building+Real-World+Projects" alt="Typing SVG" />
+</p>
+
 
 ## 👨‍💻 About Me
 
@@ -16,17 +17,24 @@
 - 📍 Maharashtra, India
 
 ---
-
 ## 🛠️ Tech Stack
 
-### Languages
-`Python` `JavaScript` `HTML` `CSS`
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
 
-### Data Science & AI/ML
+### 🤖 Data Science & AI/ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+</p>
+
 `Pandas` `NumPy` `Machine Learning` `Data Analysis`
 
-### Tools & Platforms
-`Git` `GitHub` `VS Code`
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
