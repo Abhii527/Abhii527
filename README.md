@@ -68,6 +68,12 @@ A responsive web application designed to help users manage and track their daily
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Abhii527&theme=tokyonight&hide_border=true"/>
+</p>
+
 ## 📚 Currently Learning
 
 - Advanced Python
